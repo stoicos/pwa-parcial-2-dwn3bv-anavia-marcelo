@@ -1,6 +1,6 @@
-//No lo tengo instalado por eso uso links y cambio a messaging-sw
+//No lo tengo instalado por eso uso links
 importScripts ("https://www.gstatic.com/firebasejs/9.23.0/firebase-app.js");
-importScripts ("https://www.gstatic.com/firebasejs/9.23.0/firebase-messaging-sw.js");
+importScripts ("https://www.gstatic.com/firebasejs/9.23.0/firebase-messaging.js");
 
 //Repito la configuración
 const firebaseConfig = {
